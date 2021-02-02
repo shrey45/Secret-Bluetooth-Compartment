@@ -1,4 +1,4 @@
-# Shrey-and-Henry-s-Olfactory-Cover-for-Kids
+# Shrey and Henry's Elves (SHelves)
 
 ## Project Pre-Planning
 
