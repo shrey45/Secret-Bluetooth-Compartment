@@ -10,5 +10,22 @@ Here are some links for our project pre-planning
 
 [Onshape Document](https://cvilleschools.onshape.com/documents/396c4bae165363b393b80903/w/f6e132cf290feae134ab5437/e/f283a3afb2df00d231ba4060) - We made a basic design of our project in Onshape so we can get an idea of how it is going to look and where all the components would be in the final product.
 
+### Sudokode
+
+```c++
+void setup() {
+    
+}
+
+void loop() {
+    read nfc
+    verify legetimatcy of NFC
+    send data back
+    if nfc is correct
+    {release lock}
+    
+    if nfc is incorrect 
+    {send message back and capture hacker}
+}
 
 
