@@ -27,5 +27,12 @@ void loop() {
     if nfc is incorrect 
     {send message back and capture hacker}
 }
+```
+### Purchase Documents
+
+[Finances Spreadsheet](https://docs.google.com/spreadsheets/d/1NeZBrL9gGg3-wpjZcSCkW1YLsva8NJrKapRebr1HqUg/edit#gid=0)
+
+[Things to buy](https://docs.google.com/document/d/1pShio0aneYviQ_E5x2Q9ebDooaYmQixlLznzhgxQQnk/edit)
+
 
 
