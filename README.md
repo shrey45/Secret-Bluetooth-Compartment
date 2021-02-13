@@ -10,7 +10,7 @@ Here are some links for our project pre-planning
 
 [Onshape Document](https://cvilleschools.onshape.com/documents/396c4bae165363b393b80903/w/f6e132cf290feae134ab5437/e/f283a3afb2df00d231ba4060) - We made a basic design of our project in Onshape so we can get an idea of how it is going to look and where all the components would be in the final product.
 
-### Sudokode
+### Pseudocode
 
 ```c++
 void setup() {
@@ -34,5 +34,11 @@ void loop() {
 
 [Things to buy](https://docs.google.com/document/d/1pShio0aneYviQ_E5x2Q9ebDooaYmQixlLznzhgxQQnk/edit)
 
+*Note: Documents are pretty informal right now. Will start to cement as time goes on*
 
+### CAD Designs
 
+Some STL files in the repo:
+[]()
+
+Link to Onshape Document
