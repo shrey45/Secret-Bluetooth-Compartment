@@ -39,6 +39,7 @@ void loop() {
 ### CAD Designs
 
 Some STL files in the repo:
-[]()
+[CADFiles](https://github.com/shrey45/Shrey-and-Henry-s-Elves-SHelves-/tree/main/CADfiles)
 
 Link to Onshape Document
+[It's above, but here's it again](#Pre-Planning Links)
