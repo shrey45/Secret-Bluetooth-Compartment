@@ -69,7 +69,7 @@ We got our parts and we opened up the Arduino. The arduino that we purchased is 
 #### Goal
 
 
-**Goal Status - **
+**Goal Status -**
 
 #### Week 2 Summary
 
