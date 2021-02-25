@@ -43,3 +43,34 @@ Some STL files in the repo:
 
 Link to Onshape Document
 [It's above, but here's it again](#pre-planning-links)
+
+## Weekly Targets
+
+### Week 1 - 2/22/21
+
+#### Goal
+
+Our goal for this week is to figure how the Arduino works**
+
+#### Week 1 Summary
+
+We got our parts and we opened up the Arduino. The arduino that we purchased is the Arduino 33 BLE w/headers. Honestly speaking, we have no idea how to operate this thing. We have used Arduino Uno for the entirity of our "enginnering career". We have to do A LOT of research on how this arduino nano works, and how we can get it to pair with NFC. We can normally look on Google for projects similar to ours, and get ideas and inspiration, but apparently no one has done a project using Arduino Nano + NFC. Someone's got to do it sooo... I guess that's us. We researched a dew sites and used the [Arduino Reference on BLE](https://www.arduino.cc/en/Reference/ArduinoBLE) so we could learn more about it. 
+
+**Goal Status - In progress**
+
+#### Links used
+
+(https://www.okdo.com/project/get-started-with-arduino-nano-33-ble) - Just visiting sites to learn more
+
+[Arduino Reference on BLE](https://www.arduino.cc/en/Reference/ArduinoBLE)
+
+### Week 2 - 2/29/21
+
+#### Goal
+
+
+**Goal Status - **
+
+#### Week 2 Summary
+
+#### Links Used
