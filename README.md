@@ -66,8 +66,8 @@ We got our parts and we opened up the Arduino. The arduino that we purchased is 
 
 ### Week 2 - 2/29/21
 
+This section will be unlocked next week🔒
 #### Goal
-
 
 **Goal Status -**
 
