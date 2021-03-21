@@ -70,7 +70,6 @@ We got our parts and we opened up the Arduino. The arduino that we purchased is 
 
 ### Week 2 - 3/1/21
 
-This section will be unlocked next week🔒
 #### Goal
 
 Our goal is to continue working on our NFC research.
@@ -91,7 +90,6 @@ We had a major FAIL and breakthrough this week. We realized that the arduino we 
 
 ### Week 3 - 3/8/21
 
-This section will be unlocked next week🔒
 #### Goal
 
 Our goal is to figure out what a second step to unlocking the compartment.
@@ -114,7 +112,6 @@ We thought of stating in the code hat if only a registered device connects throu
 
 ### Week 4 - 3/15/21
 
-This section will be unlocked next week🔒
 #### Goal
 
 Our goal is to figure out what a second step to unlocking the compartment.
