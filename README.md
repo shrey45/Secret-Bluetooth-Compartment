@@ -121,14 +121,15 @@ Our goal is to figure out what a second step to unlocking the compartment.
 #### Week 4 Summary
 
 Honestly, we didn't get much progress in code this week. Still trying to work out how to add a second layer of security and other things. I also was bombarded with a lot of HW including and essay, so... yeah. Next week will be much more productive for code. We did get some prgress in CAD though! Chek out the [CADFiles](https://github.com/shrey45/Shrey-and-Henry-s-Elves-SHelves-/tree/main/CADfiles)
-
+—
+Yep, not too much. We have a good direction, just getting concepts to real things can be hard. Very hard. CAD was tweaked to be better printed.
 
 #### Links Used
 
 [Arduino Forums](https://forum.arduino.cc/index.php?topic=662680.0)
 
 [Onshape link](https://cvilleschools.onshape.com/documents/396c4bae165363b393b80903/w/f6e132cf290feae134ab5437/e/29a0a14830e85418dcbea46b)
-
+[Onshape link 2](https://cvilleschools.onshape.com/documents/c71da7297e82db234daa5424/w/67425958a3b815c674c77b8b/e/1645d67e4368d60fb1fd7d67)
 
 
 ---
