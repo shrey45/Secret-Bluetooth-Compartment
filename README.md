@@ -121,7 +121,9 @@ Our goal is to figure out what a second step to unlocking the compartment.
 #### Week 4 Summary
 
 Honestly, we didn't get much progress in code this week. Still trying to work out how to add a second layer of security and other things. I also was bombarded with a lot of HW including and essay, so... yeah. Next week will be much more productive for code. We did get some prgress in CAD though! Chek out the [CADFiles](https://github.com/shrey45/Shrey-and-Henry-s-Elves-SHelves-/tree/main/CADfiles)
+
 —
+
 Yep, not too much. We have a good direction, just getting concepts to real things can be hard. Very hard. CAD was tweaked to be better printed.
 
 #### Links Used
