@@ -137,17 +137,24 @@ Yep, not too much. We have a good direction, just getting concepts to real thing
 
 ---
 
-### Week 5 - 3/22/21
+### Week 6 - 3/31/21
 
-This section will be unlocked next week🔒
 #### Goal
 
+Continue to troubleshoot Arduino <-> Device connection, and prepare CAD design for real world use.
 
-**Goal Status -**
+**Goal Status - CAD is going slow, but okay. Code is running into issues.**
 
 #### Week 4 Summary
 
+CAD: Thickness of box has been changed, many small redesigns to fit a battery and mechanisms. Trying to design 'snap-fit' (2 links below) for the box top and bottom walls.
+
+Code: Between the Arduino Nano, the Bluetooth Low Energy (BLE) protocol, and the walled garden of iOS (Kinda cool Wikipedia article below), the knowledge and code that exists for this project is very very rare. Troubleshooting is being done very actively, it's just hard to keep constantly mulling over to try and find *el Dorado*.
+
+**Once we get back from Spring Break**
+
+Henry: First off, I'm gonna bask in the lab air. Then, I'm gonna work and hopefully start getting some locking prototypes started, maybe printing out our designs. I 100% will have a million questions, but hopefully I can try and find the answers myself.
+
+Shrey:
 
 #### Links Used
-
-
