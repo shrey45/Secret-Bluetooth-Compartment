@@ -158,3 +158,13 @@ Henry: First off, I'm gonna bask in the lab air. Then, I'm gonna work and hopefu
 Shrey:
 
 #### Links Used
+
+[Latest Onshape Document (Snap-fit Compartment Design)](https://cvilleschools.onshape.com/documents/6b8f4263bb016b629e189fe7/w/23d0a2824c42f47f874adfcc/e/d084e0d6af6d5dfb90115ced)
+
+[Snap-fit Article #1](https://www.sculpteo.com/blog/2018/04/25/how-to-connect-two-parts-with-3d-printed-joints-and-snap-fits/)
+
+[Snap-fit Article #2](https://www.3dhubs.com/knowledge-base/how-design-snap-fit-joints-3d-printing/)
+
+[Henry's Random Links]()
+
+[Closed Platform Wikipedia Article](https://en.wikipedia.org/wiki/Closed_platform)
