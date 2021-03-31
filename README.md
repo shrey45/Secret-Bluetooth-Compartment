@@ -149,7 +149,7 @@ Continue to troubleshoot Arduino <-> Device connection, and prepare CAD design f
 
 CAD: Thickness of box has been changed, many small redesigns to fit a battery and mechanisms. Trying to design 'snap-fit' (2 links below) for the box top and bottom walls.
 
-Code: Between the Arduino Nano, the Bluetooth Low Energy (BLE) protocol, and the walled garden of iOS (Kinda cool Wikipedia article below), the knowledge and code that exists for this project is very very rare. Troubleshooting is being done very actively, it's just hard to keep constantly mulling over to try and find *el Dorado*.
+Code: Between the Arduino Nano, the Bluetooth Low Energy (BLE) protocol, and the walled garden of iOS, the knowledge and code that exists for this project is very very rare. Troubleshooting is being done very actively, it's just hard to keep constantly mulling over to try and find *el Dorado*.
 
 **Once we get back from Spring Break**
 
@@ -165,6 +165,4 @@ Shrey:
 
 [Snap-fit Article #2](https://www.3dhubs.com/knowledge-base/how-design-snap-fit-joints-3d-printing/)
 
-[Henry's Random Links]()
-
-[Closed Platform Wikipedia Article](https://en.wikipedia.org/wiki/Closed_platform)
+[Henry's Random Links](https://github.com/shrey45/Secret-Bluetooth-Compartment/blob/main/CADfiles/RandomLinks.md)
