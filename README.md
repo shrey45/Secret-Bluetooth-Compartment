@@ -155,7 +155,7 @@ Code: Between the Arduino Nano, the Bluetooth Low Energy (BLE) protocol, and the
 
 Henry: First off, I'm gonna bask in the lab air. Then, I'm gonna work and hopefully start getting some locking prototypes started, maybe printing out our designs. I 100% will have a million questions, but hopefully I can try and find the answers myself.
 
-Shrey:
+Shrey: I'll still be at home, but I'm gonna be following the sane drill. Write, test, rewrite, and retest code. I'm just tying to figure out this code, and I'm really close, I know it. That's why it's so frustrating because I can see the light at the end of the tunnel, but it's still about a mile away.
 
 #### Links Used
 
