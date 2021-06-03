@@ -254,6 +254,8 @@ void loop() {
 
 #### Reflection
 
+---
+
 Our time with the code was litteraly a rollercoaster ride. We had times that we felt that we were almost done, but we stumbled upon a huge problem right after. Sometimes, it felt like we couldn't even get past the most basic things. Eventually though, the code issue was solved. Here are some tips for working with Bluetooth, or any new complicated feature.
 
 #### Tips for Bluetooth(or any new things you're trying out)
