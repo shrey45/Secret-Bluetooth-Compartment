@@ -263,6 +263,19 @@ Our time with the code was litteraly a rollercoaster ride. We had times that we 
 3. If you do end up using BLE - start by reading through and applying code and functions found on the [Arduino BLE Library Reference Page](https://www.arduino.cc/en/Reference/ArduinoBLE) so that you can start to get a feel for BLE, and how it works.
 4. Download the BLE library and try out the example codes - Use the serial monitor to your advantage and start messing with some code. This will help you understand how to implement these codes, with other BLE functions, to your project code.
 5. [LightBlue](https://apps.apple.com/us/app/lightblue/id557428110) - This app is one of the only apps that can communicate with(send inputs) to the Nano. Another great app to start of with is [nRF Connect](https://apps.apple.com/us/app/nrf-connect-for-mobile/id1054362403), which allows you to test code and make sure it connects(*NOTE: This app can only connect to the Nano, but not send it inputs*). Download these apps on your phone, and start messing around with it.
-6. Example Code - Here's a link to another Github about the codes to use for the apps above.
+6. Example Code - Here's a link to [another Repo](https://github.com/shrey45/Secret-Bluetooth-Compartment/blob/main/APPS%20with%20BLE%20CODE.md) about the codes to use for the apps above.
+7. Try to start reading functions - The codes that I provided you proably don't make any sense, and look like another language(actually it is😂), and thats what I felt at the start too. If you look over the reference page I linked though then you can start making sense of the code. So try to go over the hugh code 1 line at a time, and see if you can get the jist of what everything means. TRUST ME. It'll be A LOT easier then.
+8. Do as much Google as you can to try to get informatin from the very few sources there are online.
+9. *Last Resort Option* - Worst comes worst, after checking with your teacher and if there are no resources available to help you continue in your BLE(or whatever project) adventure, then write a support ticket to Arduino. I'm not going to link that because you probably shouldn't use that... because you have THIS AMAZING RESOURCE WHICH GIVES YOU SO MUCH INFORMATION!!! I wish I had something like this before this project...
+10. It will be very frustrating, trust me, but *DO NOT* give up. 
+11. This is not really related to code, but whenever you're testing code and using your board, remember - *NEVER RUN A 9V BATTERY THROUGH YOUR NANO, IT WILL GET FRIED*(backed by real life evidence).
+
+I really hope this section of code advice helps and you don't keep on goin in circles like we did for the entire year(but you should struggle and fail, it helps in the learning process:)
+
+ON TO CAD!➡️
+
+## CAD
+
+
 
 
