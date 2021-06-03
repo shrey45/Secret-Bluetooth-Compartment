@@ -175,7 +175,7 @@ After a lot of struggles, trial and error runs, and testing, we finished the box
 
 ### Code
 
-'''c++
+```c++
 
 #include <ArduinoBLE.h>
 
@@ -250,4 +250,4 @@ void loop() {
     
   }
 }
-'''
+```
