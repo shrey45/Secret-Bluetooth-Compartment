@@ -251,3 +251,18 @@ void loop() {
   }
 }
 ```
+
+#### Reflection
+
+Our time with the code was litteraly a rollercoaster ride. We had times that we felt that we were almost done, but we stumbled upon a huge problem right after. Sometimes, it felt like we couldn't even get past the most basic things. Eventually though, the code issue was solved. Here are some tips for working with Bluetooth, or any new complicated feature.
+
+#### Tips for Bluetooth(or any new things you're trying out)
+
+1. Make sure you know what you intend on using Bluetooth for before starting your project - Knwoing this will make planning a lot easier.
+2. Explore different options before making a choice of equiment or purchase - We used a Nano 33 BLE, and that added to the complexity of our project because this was a fairly new board, and there weren't many helfpful resources while trying to fully understand it. A great option for starting out on bluetooth could be to try using an [HC-05 Bluetooth Module](https://www.amazon.com/HiLetgo-Wireless-Bluetooth-Transceiver-Arduino/dp/B071YJG8DR) which work with Arduino Uno, and has plenty of resources online. It also has many apps that are compatible with it.
+3. If you do end up using BLE - start by reading through and applying code and functions found on the [Arduino BLE Library Reference Page](https://www.arduino.cc/en/Reference/ArduinoBLE) so that you can start to get a feel for BLE, and how it works.
+4. Download the BLE library and try out the example codes - Use the serial monitor to your advantage and start messing with some code. This will help you understand how to implement these codes, with other BLE functions, to your project code.
+5. [LightBlue](https://apps.apple.com/us/app/lightblue/id557428110) - This app is one of the only apps that can communicate with(send inputs) to the Nano. Another great app to start of with is [nRF Connect](https://apps.apple.com/us/app/nrf-connect-for-mobile/id1054362403), which allows you to test code and make sure it connects(*NOTE: This app can only connect to the Nano, but not send it inputs*). Download these apps on your phone, and start messing around with it.
+6. Example Code - Here's a link to another Github about the codes to use for the apps above.
+
+
