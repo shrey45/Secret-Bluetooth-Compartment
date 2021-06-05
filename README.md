@@ -256,7 +256,18 @@ void loop() {
 
 ---
 
-Our time with the code was litteraly a rollercoaster ride. We had times that we felt that we were almost done, but we stumbled upon a huge problem right after. Sometimes, it felt like we couldn't even get past the most basic things. Eventually though, the code issue was solved. Here are some tips for working with Bluetooth, or any new complicated feature.
+Our time with the code was litteraly a rollercoaster ride. We had times that we felt that we were almost done, but we stumbled upon a huge problem right after. Sometimes, it felt like we couldn't even get past the most basic things. At some points, we struggled to get code just uploading to the board(hit the reset button), and we took at least 2 weeks searching for an app that can send inputs via BLE. We actually started with NFC, but then realized we bought a board that had an NFC chip on it, and not a reader, so that was an obstacle we created on ourselves and that probably wasted a good bit of time. Eventually though, the code issue was solved. 
+
+Here are some tips for starting any project:
+
+#### Project Tips
+
+1. Research properly - Make aure you know about 90% of everything in your project. It's not possible to knwo EVERYTHING that you will need, because problems will arise and you'll have to work around it, but have a really good sense of it.
+2. Read electronic parts' documentation - This is very helpful. You can understand all about the board, and most of the features.
+3. Read carefully - This goes back to the research. Just because you see one word that you were looking for, doesn't mean it's exactly what you're looking for. Read on to make sure it isn't some other thing that would be kind of useless for your work(Kind of like if you see a sign for lemonade, but they wrote "no lemons were harmed in the making" in fine print, so you basically just wasted 50 cents on yellow colored water)
+4. Whenever you're testing code and using your board, remember - *NEVER RUN A 9V BATTERY THROUGH YOUR NANO, IT WILL GET FRIED*(backed by real life evidence).
+
+Here are some tips for working with Bluetooth, or any new complicated feature:
 
 #### Tips for Bluetooth(or any new things you're trying out)
 
