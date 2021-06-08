@@ -48,6 +48,8 @@ Link to Onshape Document
 
 ## Weekly Targets
 
+<details>
+    
 ### Week 1 - 2/22/21
 
 #### Goal
@@ -145,7 +147,7 @@ Continue to troubleshoot Arduino <-> Device connection, and prepare CAD design f
 
 **Goal Status - CAD is going slow, but okay. Code is running into issues.**
 
-#### Week 4 Summary
+#### Week 6 Summary
 
 CAD: Thickness of box has been changed, many small redesigns to fit a battery and mechanisms. Trying to design 'snap-fit' (2 links below) for the box top and bottom walls.
 
@@ -166,6 +168,8 @@ Shrey: I'll still be at home, but I'm gonna be following the sane drill. Write, 
 [Snap-fit Article #2](https://www.3dhubs.com/knowledge-base/how-design-snap-fit-joints-3d-printing/)
 
 [Henry's Random Links](https://github.com/shrey45/Secret-Bluetooth-Compartment/blob/main/CADfiles/RandomLinks.md)
+    
+</details>
 
 ## Final Project Documentation
 
