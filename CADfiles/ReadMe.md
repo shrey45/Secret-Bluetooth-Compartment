@@ -6,3 +6,5 @@ Update **2.13.21**: Enough subtle changes have been made (darn optimizing design
 Update **3.23.21**: Delete and re-up again. Design has been made better suited to 3D printing, and is on it's way to having connectors modeled.
 
 Update **4.27.21** Back again! The snap-fit connectors of the are hopefully at their final stage, and everything else should be soon to follow.
+
+Update **6.8.21** Last week of the 2021 school year. Reuploading all final CAD files, including a small template for **snap fits**.
