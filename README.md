@@ -1,5 +1,15 @@
 # Shrey and Henry's Elves (SHelves)
 
+This is out Engineering 2 Final Project. We're building a secret bluetooth safe. Essentially, the "secret" comes from the fact that it's not going to look anything like a safe, andd will seem like another random 3d printed object. The lock will be controlled by sending a password through bluetooth, so we can only enter it.
+
+---
+
+* [Project Pre-Planning](#Project-Pre---Planning)
+* [Weekly Targets](#Weekly-Targets)
+* [Final Project Documentation](#Final-Project-Documentation)
+* [Final Project Documentation - Code(with tips)](#Code)
+* [Final Project Documentation - CAD(with tips)](#CAD)
+
 ## Project Pre-Planning
 
 ### Pre-Planning Links
@@ -11,6 +21,8 @@ Here are some links for our project pre-planning
 [Onshape Document](https://cvilleschools.onshape.com/documents/396c4bae165363b393b80903/w/f6e132cf290feae134ab5437/e/f283a3afb2df00d231ba4060) - We made a basic design of our project in Onshape so we can get an idea of how it is going to look and where all the components would be in the final product.
 
 ### Pseudocode
+
+This is out initial basic thought of what we want our code to do, but it's in words. If you're wondering why it's talking about NFCs, that's because we were actually going to make this a secret NFC safe, but we changed it to bluwtooth for various reasons(look at Week 2 summary for details)
 
 ```c++
 void setup() {
@@ -175,7 +187,26 @@ Shrey: I'll still be at home, but I'm gonna be following the sane drill. Write, 
 
 ### Summary
 
-After a lot of struggles, trial and error runs, and testing, we finished the box. Kind of, atleast. We finished the theoretical proof of concept of the box, designed it completely on CAD, AND completed & tested working code, but we were unable to get the box printed because of shortage of time. Whatever we got though is pretty cool and we're happy about it! (not really we're pretty bummed out that we couldn't actually make it after lots of effort and time...) Here it is though! 
+We initially chose the Nano 33 Ble because we saw it had NFC capabilities, and it way tiny, so we purchased that, but switching from that to bluetooth led us to a lot of problems. Eventually though, A\after a lot of struggles, trial and error runs, and testing, we finished the box. Kind of, atleast. We finished the theoretical proof of concept of the box, designed it completely on CAD, AND completed & tested working code, but we were unable to get the box printed because of shortage of time. Whatever we got though is pretty cool and we're happy about it! (not really we're pretty bummed out that we couldn't actually make it after lots of effort and time...) Here it is though!
+    
+#### Materials Used
+
+- Arduino Nano 33 BLE
+- Solenoid
+- Diode
+- Transistor
+- Resistor
+- Jumper Wires
+
+Here are some tips for starting any project:
+
+#### Project Tips
+
+1. Research properly - Make aure you know about 90% of everything in your project. It's not possible to knwo EVERYTHING that you will need, because problems will arise and you'll have to work around it, but have a really good sense of it.
+2. Read electronic parts' documentation - This is very helpful. You can understand all about the board, and most of the features.
+3. Read carefully - This goes back to the research. Just because you see one word that you were looking for, doesn't mean it's exactly what you're looking for. Read on to make sure it isn't some other thing that would be kind of useless for your work(Kind of like if you see a sign for lemonade, but they wrote "no lemons were harmed in the making" in fine print, so you basically just wasted 50 cents on yellow colored water)
+4. Whenever you're testing code and using your board, remember - *NEVER RUN A 9V BATTERY THROUGH YOUR NANO, IT WILL GET FRIED*(backed by real life evidence).
+
 
 ### Code
 
@@ -262,15 +293,6 @@ void loop() {
 
 Our time with the code was litteraly a rollercoaster ride. We had times that we felt that we were almost done, but we stumbled upon a huge problem right after. Sometimes, it felt like we couldn't even get past the most basic things. At some points, we struggled to get code just uploading to the board(hit the reset button), and we took at least 2 weeks searching for an app that can send inputs via BLE. We actually started with NFC, but then realized we bought a board that had an NFC chip on it, and not a reader, so that was an obstacle we created on ourselves and that probably wasted a good bit of time. Eventually though, the code issue was solved. 
 
-Here are some tips for starting any project:
-
-#### Project Tips
-
-1. Research properly - Make aure you know about 90% of everything in your project. It's not possible to knwo EVERYTHING that you will need, because problems will arise and you'll have to work around it, but have a really good sense of it.
-2. Read electronic parts' documentation - This is very helpful. You can understand all about the board, and most of the features.
-3. Read carefully - This goes back to the research. Just because you see one word that you were looking for, doesn't mean it's exactly what you're looking for. Read on to make sure it isn't some other thing that would be kind of useless for your work(Kind of like if you see a sign for lemonade, but they wrote "no lemons were harmed in the making" in fine print, so you basically just wasted 50 cents on yellow colored water)
-4. Whenever you're testing code and using your board, remember - *NEVER RUN A 9V BATTERY THROUGH YOUR NANO, IT WILL GET FRIED*(backed by real life evidence).
-
 Here are some tips for working with Bluetooth, or any new complicated feature:
 
 #### Tips for Bluetooth(or any new things you're trying out)
@@ -293,6 +315,7 @@ ON TO CAD!➡️
 
 ## CAD
 
+ 
 
 
 
