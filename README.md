@@ -64,7 +64,7 @@ Link to Onshape Document
 
 ## Weekly Targets
 
-<details>
+<Click to See Weekly Targets>
     
 ### Week 1 - 2/22/21
 
@@ -185,7 +185,7 @@ Shrey: I'll still be at home, but I'm gonna be following the sane drill. Write, 
 
 [Henry's Random Links](https://github.com/shrey45/Secret-Bluetooth-Compartment/blob/main/CADfiles/RandomLinks.md)
     
-</details>
+</Click to See Weekly Targets>
 
 ## Final Project Documentation
 
