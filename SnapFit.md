@@ -7,3 +7,10 @@ Well, I personally used it in my project in order to not have exterior screws ho
 
 **Aesthetics**  
 If you use snap fits, you can 3D print something instead of laser cutting it in acrylic! Additionally, it minimizes the use of screws on the outside of the box. *~*~*pretty*~*~*
+
+### How do I make a snap fit?
+**Use! Resources!** (including mine :wink: ) There are images and CAD files of my example in the CADFiles folder, alongside links below to Onshape documents with my example. But, snap fits can very greatly. 
+
+The basic gist of it is, well, it's one piece that **snaps** to **fit** onto another piece, as a replacement for screws or other forms of attachment.
+
+James Low's [article on hubs.com](https://www.hubs.com/knowledge-base/how-design-snap-fit-joints-3d-printing/) about snap fits is a great read on some of the different types. Honestly, I can't get specific into any one form, but I'm always a resource if you need! Contact me at [henrycheisig@gmail.com](mailto:henrycheisig@gmail.com) or <a href="tel:434-806-7465">(434) 806-7475</a>
