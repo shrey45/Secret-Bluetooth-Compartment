@@ -1,6 +1,6 @@
 # Shrey and Henry's Elves (SHelves)
 
-This is out Engineering 2 Final Project. We're building a secret bluetooth safe. Essentially, the "secret" comes from the fact that it's not going to look anything like a safe, andd will seem like another random 3d printed object. The lock will be controlled by sending a password through bluetooth, so we can only enter it.
+This is out Engineering 2 Final Project. We're building a secret bluetooth safe. Essentially, the "secret" comes from the fact that it's not going to look anything like a safe, and will seem like another random 3d printed object. The lock will be controlled by sending a password through bluetooth, so we can only enter it.
 
 ---
 
@@ -92,7 +92,7 @@ Here are some tips for starting any project:
 ### Code
 
 <details>
-<summary>Click here to see code!</summary>
+<summary>Click here to see out final code!</summary>
 
 ```c++
 
@@ -176,7 +176,7 @@ void loop() {
 ### Tips for Bluetooth(or any new things you're trying out)
 
 <details>
-<summary>Click here to Bluetooth Tips!</summary>
+<summary>Click here to see some awesome Bluetooth Tips!</summary>
     
 Here are some additional tips for working with Bluetooth, or any new complicated feature:
 
