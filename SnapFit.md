@@ -9,8 +9,23 @@ Well, I personally used it in my project in order to not have exterior screws ho
 If you use snap fits, you can 3D print something instead of laser cutting it in acrylic! Additionally, it minimizes the use of screws on the outside of the box. *~*~*pretty*~*~*
 
 ### How do I make a snap fit?
-**Use! Resources!** (including mine :wink: ) There are images and CAD files of my example in the CADFiles folder, alongside links below to Onshape documents with my example. But, snap fits can very greatly. 
-
+**Use! Resources!** (including mine :wink: ) There are images and CAD files of my example in the CADFiles folder, alongside links below to Onshape documents with my example. But, snap fits can very greatly.  
 The basic gist of it is, well, it's one piece that **snaps** to **fit** onto another piece, as a replacement for screws or other forms of attachment.
 
-James Low's [article on hubs.com](https://www.hubs.com/knowledge-base/how-design-snap-fit-joints-3d-printing/) about snap fits is a great read on some of the different types. Honestly, I can't get specific into any one form, but I'm always a resource if you need! Contact me at [henrycheisig@gmail.com](mailto:henrycheisig@gmail.com) or <a href="tel:434-806-7465">(434) 806-7475</a>
+Honestly, I can't get specific into any one form, but I'm always a resource if you need! Contact me at [henrycheisig@gmail.com](mailto:henrycheisig@gmail.com) or [(434) 806-7475](tel:4348067475)
+
+
+### Resources
+James Low's [article on hubs.com](https://www.hubs.com/knowledge-base/how-design-snap-fit-joints-3d-printing/) about snap fits is a great read on some of the different types.
+
+Amandine Richardot's [article on sculpteo.com](https://www.sculpteo.com/blog/2018/04/25/how-to-connect-two-parts-with-3d-printed-joints-and-snap-fits/) is also awesome!
+
+The [Wikipedia page on snap-fits](https://en.wikipedia.org/wiki/Snap-fit) was less helpful, but is yet another resource to use.
+
+Contact me at [henrycheisig@gmail.com](mailto:henrycheisig@gmail.com) or [(434) 806-7475](tel:4348067475)
+
+### Small tips!
+- Sand your edges! The fits can get caught on the rougher edges of an unsmoothed piece.
+- Leave some wiggle room, as you still have to be able to get the hook on and off the ledge.
+- Be prepared to iterate and iterate. There's no exact science of this, it's meant to be fluid and moveable, which is one of the harder things to make.
+- Make sure no one area of a part is receiving too much stress, as that can snap the piece, and not in the good way
