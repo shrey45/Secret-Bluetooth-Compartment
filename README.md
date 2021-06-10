@@ -8,9 +8,9 @@ This is out Engineering 2 Final Project. We're building a secret bluetooth safe.
 
 * [Project Pre-Planning](#Project-Pre-Planning)
 * [Weekly Targets](#Weekly-Targets)
-* [Final Project Documentation](#Final-Project-Documentation)
-* [Final Project Documentation - Code(with tips)](#Code)
-* [Final Project Documentation - CAD(with tips)](#CAD)
+* [Overview](#Overview)
+* [Code](#Code)
+* [Bluetooth Tips](#Tips-for-Bluetooth-or-any-new-things-you're-trying-out)
 
 ---
 
