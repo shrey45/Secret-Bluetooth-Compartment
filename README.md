@@ -329,6 +329,8 @@ ON TO CAD!➡️
 [SnapFit.md](SnapFit.md)  
 [SnapFit Onshape](https://cvilleschools.onshape.com/documents/f3440d5da847d046bf1eb953/w/08b36d4511e8e49777525b57/e/3e4783c8b1288a5ddce265f7)
 
+<img src="https://github.com/shrey45/Secret-Bluetooth-Compartment/blob/main/CADfiles/Images/FullAssembly.png?raw=true" alt="Full assembly screenshot" width="500"> 
+    
 [OldCompartmentDesign Onshape](https://cvilleschools.onshape.com/documents/396c4bae165363b393b80903/w/f6e132cf290feae134ab5437/e/29a0a14830e85418dcbea46b)  
 [CompartmentRedesign Onshape](https://cvilleschools.onshape.com/documents/c71da7297e82db234daa5424/w/67425958a3b815c674c77b8b/e/6f854c8b8a0eb32d950fda1c)  
 [SnapFitCompartmentDesign Onshape](https://cvilleschools.onshape.com/documents/6b8f4263bb016b629e189fe7/w/23d0a2824c42f47f874adfcc/e/b8b8692039fcbf42eb6f0b4a)  
