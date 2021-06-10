@@ -12,6 +12,8 @@ This is out Engineering 2 Final Project. We're building a secret bluetooth safe.
 * [Final Project Documentation - Code(with tips)](#Code)
 * [Final Project Documentation - CAD(with tips)](#CAD)
 
+---
+
 ## Project Pre-Planning
 
 ### Pre-Planning Links
