@@ -16,6 +16,8 @@ Honestly, I can't get specific into any one form, but I'm always a resource if y
 
 
 ### Resources
+[My Onshape Document](https://cvilleschools.onshape.com/documents/f3440d5da847d046bf1eb953/w/08b36d4511e8e49777525b57/e/3e4783c8b1288a5ddce265f7)
+
 James Low's [article on hubs.com](https://www.hubs.com/knowledge-base/how-design-snap-fit-joints-3d-printing/) about snap fits is a great read on some of the different types.
 
 Amandine Richardot's [article on sculpteo.com](https://www.sculpteo.com/blog/2018/04/25/how-to-connect-two-parts-with-3d-printed-joints-and-snap-fits/) is also awesome!
