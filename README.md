@@ -10,7 +10,7 @@ This is out Engineering 2 Final Project. We're building a secret bluetooth safe.
 * [Weekly Targets](#Weekly-Targets)
 * [Overview](#Overview)
 * [Code](#Code)
-* [Bluetooth Tips](#Tips-for-Bluetooth-or-any-new-things-you're-trying-out)
+* [Bluetooth Tips](#Tips-for-Bluetooth)
 
 ---
 
@@ -173,7 +173,7 @@ void loop() {
     
 </details>    
 
-### Tips for Bluetooth(or any new things you're trying out)
+### Tips for Bluetooth
 
 <details>
 <summary>Click here to see some awesome Bluetooth Tips!</summary>
