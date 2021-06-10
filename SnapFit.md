@@ -31,3 +31,6 @@ Contact me at [henrycheisig@gmail.com](mailto:henrycheisig@gmail.com) or [(434) 
 - Leave some wiggle room, as you still have to be able to get the hook on and off the ledge.
 - Be prepared to iterate and iterate. There's no exact science of this, it's meant to be fluid and moveable, which is one of the harder things to make.
 - Make sure no one area of a part is receiving too much stress, as that can snap the piece, and not in the good way
+
+#### Wiggle room example
+<img src="https://github.com/shrey45/Secret-Bluetooth-Compartment/blob/main/CADfiles/Images/SnapFit/SnapFitGap.png?raw=true" alt="Snap fit gap" width="500">
