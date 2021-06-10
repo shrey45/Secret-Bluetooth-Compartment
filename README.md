@@ -4,7 +4,7 @@ This is out Engineering 2 Final Project. We're building a secret bluetooth safe.
 
 ---
 
-* [Project Pre-Planning](#Project-Pre---Planning)
+* [Project Pre-Planning](#Project-Pre-Planning)
 * [Weekly Targets](#Weekly-Targets)
 * [Final Project Documentation](#Final-Project-Documentation)
 * [Final Project Documentation - Code(with tips)](#Code)
