@@ -185,13 +185,15 @@ Shrey: I'll still be at home, but I'm gonna be following the sane drill. Write, 
 
 [Henry's Random Links](https://github.com/shrey45/Secret-Bluetooth-Compartment/blob/main/CADfiles/RandomLinks.md)
     
-</Details>
+</details>
 
 ## Final Project Documentation
 
+<details>
+
 ### Summary
 
-We initially chose the Nano 33 Ble because we saw it had NFC capabilities, and it way tiny, so we purchased that, but switching from that to bluetooth led us to a lot of problems. Eventually though, A\after a lot of struggles, trial and error runs, and testing, we finished the box. Kind of, atleast. We finished the theoretical proof of concept of the box, designed it completely on CAD, AND completed & tested working code, but we were unable to get the box printed because of shortage of time. Whatever we got though is pretty cool and we're happy about it! (not really we're pretty bummed out that we couldn't actually make it after lots of effort and time...) Here it is though!
+We initially chose the Nano 33 Ble because we saw it had NFC capabilities, and it way tiny, so we purchased that, but switching from that to bluetooth led us to a lot of problems. Eventually though, after a lot of struggles, trial and error runs, and testing, we finished the box. Kind of, atleast. We finished the theoretical proof of concept of the box, designed it completely on CAD, AND completed & tested working code, but we were unable to get the box printed because of shortage of time. Whatever we got though is pretty cool and we're happy about it! (not really we're pretty bummed out that we couldn't actually make it after lots of effort and time...) Here it is though!
     
 #### Materials Used
 
