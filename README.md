@@ -321,6 +321,7 @@ ON TO CAD!➡️
 
 ## CAD
 <img src="https://github.com/shrey45/Secret-Bluetooth-Compartment/blob/main/CADfiles/Images/SnapFit/SnapFit.png?raw=true" alt="Snap fit screenshot" width="500">  
+
 [SnapFit.md](SnapFit.md)  
 [SnapFit Onshape](https://cvilleschools.onshape.com/documents/f3440d5da847d046bf1eb953/w/08b36d4511e8e49777525b57/e/3e4783c8b1288a5ddce265f7)
  
