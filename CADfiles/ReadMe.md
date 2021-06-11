@@ -1,5 +1,5 @@
 # Please read this for some info about the files!
-**Henry update this please**
+Welcome to the CADfiles folder! Above are the .stl's of the various individual parts and their assemblies. The folders 'SnapFitFine' and 'SolenoidFine' have more .stl files in them. But, the 'Images' folder has, well, *images* of the various parts and their assembles.
 
 Update **2.13.21**: Enough subtle changes have been made (darn optimizing design!!!) that all the files in the directory are being deleted and re-uploaded. Don't worry, it's all in the cloud.
 
