@@ -11,6 +11,8 @@ This is out Engineering 2 Final Project. We're building a secret bluetooth safe.
 * [Overview](#Overview)
 * [Code](#Code)
 * [Bluetooth Tips](#Tips-for-Bluetooth)
+* [CAD](#CAD)
+* [Weekly Targets](#Weekly-Targets)
 
 ---
 
@@ -22,7 +24,7 @@ Here are some links for our project pre-planning
 
 [Project Pre-Planning Document](https://docs.google.com/document/d/1n7HKKgamwmxf23o07j7cTV_iTXT8w2us0Eivl7ezHLk/edit)
 
-[Onshape Document](https://cvilleschools.onshape.com/documents/396c4bae165363b393b80903/w/f6e132cf290feae134ab5437/e/f283a3afb2df00d231ba4060) - We made a basic design of our project in Onshape so we can get an idea of how it is going to look and where all the components would be in the final product.
+[Onshape Document](https://cvilleschools.onshape.com/documents/396c4bae165363b393b80903/w/f6e132cf290feae134ab5437/e/f283a3afb2df00d231ba4060) - We made a basic design of our project in Onshape so we can get an idea of how it is going to look and where all the components would be in the final product. *(Note: this is the first document, not the latest, so go to [CAD](#CAD) to get all the proper links.)*
 
 ### Pseudocode
 
@@ -198,9 +200,9 @@ I really hope this section of code advice helps and you don't keep on goin in ci
 
 ### Reflection
 
-Our time with the code was litteraly a rollercoaster ride. We had times that we felt that we were almost done, but we stumbled upon a huge problem right after. Sometimes, it felt like we couldn't even get past the most basic things. At some points, we struggled to get code just uploading to the board(hit the reset button), and we took at least 2 weeks searching for an app that can send inputs via BLE. We actually started with NFC, but then realized we bought a board that had an NFC chip on it, and not a reader, so that was an obstacle we created on ourselves and that probably wasted a good bit of time. Eventually though, the code issue was solved. 
+Our time with the code was literaly a rollercoaster ride. We had times that we felt that we were almost done, but we stumbled upon a huge problem right after. Sometimes, it felt like we couldn't even get past the most basic things. At some points, we struggled to get code just uploading to the board(hit the reset button), and we took at least 2 weeks searching for an app that can send inputs via BLE. We actually started with NFC, but then realized we bought a board that had an NFC chip on it, and not a reader, so that was an obstacle we created on ourselves and that probably wasted a good bit of time. Eventually though, the code issue was solved. 
 
-ON TO CAD!➡️
+ON TO CAD! ➡️
 ---
 
 ## CAD
