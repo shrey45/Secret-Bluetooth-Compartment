@@ -1,6 +1,6 @@
 # Shrey and Henry's Elves (SHelves)
 
-This is out Engineering 2 Final Project. We're building a secret bluetooth safe. Essentially, the "secret" comes from the fact that it's not going to look anything like a safe, and will seem like another random 3d printed object. The lock will be controlled by sending a password through bluetooth, so we can only enter it.
+This is our Engineering 2 Final Project. We're building a secret bluetooth safe. Essentially, the "secret" comes from the fact that it's not going to look anything like a safe, and will seem like another random 3d printed object. The lock will be controlled by sending a password through bluetooth, so we can only enter it.
 
 ---
 
